@@ -209,7 +209,10 @@ In this way, you can try over 1000 different models. But keep in mind, to effect
 ## Video Tutorial
 
 I also created a detailed video tutorial. Watch it now or save it for later.
+
+
 [![Hugging Face Tutorial](https://img.youtube.com/vi/82Bt4K4YdHg/0.jpg)](https://www.youtube.com/embed/82Bt4K4YdHg?si=PuefFSCnLEvIu-Rn)
+
 
 _Watch on YouTube:_ [_Hugging Face Tutorial_](https://www.youtube.com/watch?v=82Bt4K4YdHg)
 
